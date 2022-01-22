@@ -26,6 +26,7 @@ export function BridgeOverview() {
   const options = BridgeOptions({
     bridges: availableBridges,
     direction: tabs.direction,
+    network: selected.network,
   });
   return (
     <div className="min-w-full">

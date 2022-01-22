@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "logo": "https://synapseprotocol.com/static/media/eth.328597820c3259f6c4149556e9c912f8.svg"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "logo": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=018"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "logo": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=018"
+  },
+  {
+    "name": "Boba",
+    "symbol": "BOBA",
+    "logo": "https://pbs.twimg.com/profile_images/1428352421160394754/y8NXfOmP_400x400.png"
+  },
+  {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "logo": "https://get.celer.app/cbridge-icons/FRAX.png"
+  },
+  {
+    "name": "Oolong",
+    "symbol": "OLO",
+    "logo": "https://assets.coingecko.com/coins/images/20637/small/Capture.PNG?1637427078"
+  },
+  {
+    "name": "Olympus DAO",
+    "symbol": "gOHM",
+    "logo": "https://synapseprotocol.com/static/media/ohm.8821a8d8d6acf6222c966d5ee3c3b1f5.svg"
+  },
+  {
+    "name": "Dai",
+    "symbol": "DAI",
+    "logo": "https://synapseprotocol.com/static/media/dai.196bd5b1178303158adc.png"
+  },
+  {
+    "name": "USD Tether",
+    "symbol": "USDT",
+    "logo": "https://synapseprotocol.com/static/media/usdt.e79c828abe0c5a5b2b7dac9dfd303efc.svg"
+  },
+  {
+    "name": "Synapse",
+    "symbol": "SYN",
+    "logo": "https://synapseprotocol.com/static/media/synapse.2ad11ea43218bdada85bff8f054dd4be.svg"
+  },
+  {
+    "name": "Synapse nUSD",
+    "symbol": "nUSD",
+    "logo": "https://synapseprotocol.com/static/media/nusd.c53623fc82a6883515f6cffe1d6cc925.svg"
+  },
+  {
+    "name": "Synapse nETH",
+    "symbol": "nETH",
+    "logo": "https://synapseprotocol.com/static/media/neth.832ca487dfcd9a1be8f9f9f0242e0171.svg"
+  },
+  {
+    "name": "OMG Network",
+    "symbol": "OMG",
+    "logo": "https://gateway.boba.network/static/media/omg.df47278d.png"
+  },
+  {
+    "name": "ERC20",
+    "symbol": "ERC20",
+    "logo": "https://synapseprotocol.com/static/media/eth.328597820c3259f6c4149556e9c912f8.svg"
+  },
+  {
+    "name": "Vested SolarBeam",
+    "symbol": "veSOLAR",
+    "logo": "https://synapseprotocol.com/static/media/solarbeam.622fe6ad1f93fe630720.png"
+  },
+  {
+    "name": "AVAX",
+    "symbol": "AVAX",
+    "logo": "https://synapseprotocol.com/static/media/avalanche.6df7e20aaed05413292e9b6e328e4223.svg"
+  },
+  {
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "logo": "https://assets.coingecko.com/coins/images/17984/small/9285.png?1630028620"
+  },
+  {
+    "name": "GMX",
+    "symbol": "GMX",
+    "logo": "https://assets.coingecko.com/coins/images/18323/small/arbit.png?1631532468"
+  },
+  {
+    "name": "UMA",
+    "symbol": "UMA",
+    "logo": "https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916"
+  },
+  {
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "logo": "https://gateway.boba.network/static/media/bat.a8c01483.svg"
+  },
+  {
+    "name": "Sushi",
+    "symbol": "SUSHI",
+    "logo": "https://gateway.boba.network/static/media/sushi-icon.b50ba641.png"
+  },
+  {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "logo": "https://gateway.boba.network/static/media/link.4b02bc11.svg"
+  }
+]

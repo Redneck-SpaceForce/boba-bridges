@@ -1,102 +1,92 @@
 [
-    {
-      "network": "Arbitrum",
-      "logo": "https://miro.medium.com/max/1400/1*uDneNARNqdafkVxt5bxVuA.jpeg",
-      "website": "https://offchainlabs.com/"
-    },
-    {
-      "network": "Avalanche",
-      "logo": "https://research.binance.com/static/images/projects/avalanche/logo.png",
-      "website": ""
-    },
-    {
-      "network": "Binance",
-      "logo": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "BSC",
-      "logo": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "Celo",
-      "logo": "https://cryptologos.cc/logos/celo-celo-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "Coinbase",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9a/Coinbase_2021_App.png",
-      "website": ""
-    },
-    {
-      "network": "Ethereum",
-      "logo": "https://ethereum.org/static/4b5288012dc4b32ae7ff21fccac98de1/448ee/eth-diamond-black-gray.webp",
-      "website": ""
-    },
-    {
-      "network": "Fantom",
-      "logo": "https://cryptologos.cc/logos/fantom-ftm-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "FTX",
-      "logo": "https://cryptologos.cc/logos/ftx-token-ftt-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "FTX(US)",
-      "logo": "https://cryptologos.cc/logos/ftx-token-ftt-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "Harmony",
-      "logo": "https://cryptologos.cc/logos/harmony-one-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "Heco",
-      "logo": "https://www.heco123.com/static/HT-HECO1.3eaf7240.svg",
-      "website": ""
-    },
-    {
-      "network": "Huobi",
-      "logo": "https://cryptologos.cc/logos/huobi-token-ht-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "Kucoin",
-      "logo": "https://cryptologos.cc/logos/kucoin-token-kcs-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "Metis",
-      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png",
-      "website": ""
-    },
-    {
-      "network": "Moonriver",
-      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9285.png",
-      "website": ""
-    },
-    {
-      "network": "Okex",
-      "logo": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/294.png",
-      "website": ""
-    },
-    {
-      "network": "Optimism",
-      "logo": "https://miro.medium.com/fit/c/262/262/1*6zQEwahVQVEPk4QJpKGShw.png",
-      "website": ""
-    },
-    {
-      "network": "Polygon",
-      "logo": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=018",
-      "website": ""
-    },
-    {
-      "network": "xDai",
-      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8635.png",
-      "website": ""
-    }
-  ]
+  {
+    "network": "Arbitrum",
+    "logo": "https://miro.medium.com/max/1400/1*uDneNARNqdafkVxt5bxVuA.jpeg",
+    "website": "https://offchainlabs.com/"
+  },
+  {
+    "network": "Aurora",
+    "logo": "https://get.celer.app/cbridge-icons/chain-icon/Aurora.png",
+    "website": ""
+  },
+  {
+    "network": "Avalanche",
+    "logo": "https://research.binance.com/static/images/projects/avalanche/logo.png",
+    "website": ""
+  },
+  {
+    "network": "Binance",
+    "logo": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "BSC",
+    "logo": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "Coinbase",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9a/Coinbase_2021_App.png",
+    "website": ""
+  },
+  {
+    "network": "Ethereum",
+    "logo": "https://ethereum.org/static/4b5288012dc4b32ae7ff21fccac98de1/448ee/eth-diamond-black-gray.webp",
+    "website": ""
+  },
+  {
+    "network": "Fantom",
+    "logo": "https://cryptologos.cc/logos/fantom-ftm-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "FTX",
+    "logo": "https://cryptologos.cc/logos/ftx-token-ftt-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "FTX(US)",
+    "logo": "https://cryptologos.cc/logos/ftx-token-ftt-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "Harmony",
+    "logo": "https://cryptologos.cc/logos/harmony-one-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "Huobi",
+    "logo": "https://cryptologos.cc/logos/huobi-token-ht-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "Kucoin",
+    "logo": "https://cryptologos.cc/logos/kucoin-token-kcs-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "Moonbeam",
+    "logo": "https://icodrops.com/wp-content/uploads/2020/09/Moonbeam_logo.jpg",
+    "website": ""
+  },
+  {
+    "network": "Moonriver",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9285.png",
+    "website": ""
+  },
+  {
+    "network": "Okex",
+    "logo": "https://www.layerswap.io/_next/image?url=%2Flogos%2Fokex.png&w=3840&q=75",
+    "website": ""
+  },
+  {
+    "network": "Optimism",
+    "logo": "https://miro.medium.com/fit/c/262/262/1*6zQEwahVQVEPk4QJpKGShw.png",
+    "website": ""
+  },
+  {
+    "network": "Polygon",
+    "logo": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=018",
+    "website": ""
+  }
+]

@@ -1,68 +1,111 @@
 [
-    {
-      "gateway": "Across",
-      "url": "https://across.to/",
-      "network": [
-         "Arbitrum",
-         "Ethereum",
-         "Optimism"
-      ]
-   },
-    {
-      "gateway": "Boba Gateway",
-      "url": "https://gateway.boba.network/",
-      "network": [
-         "Ethereum"
-        ]
-   },
-    {
-      "gateway": "Celer",
-      "url": "https://cbridge.celer.network/#/transfer",
-      "network": [
-         "Arbitrum",
-         "Arbitrum",
-         "Avalanche",
-         "BSC",
-         "Celo",
-         "Ethereum",
-         "Fantom",
-         "Harmony",
-         "Heco",
-         "Metis",
-         "Moonriver",
-         "Okex",
-         "Optimism",
-         "Polygon",
-         "xDai"
-      ]
-   },
-    {
-      "gateway": "LayerSwap",
-      "url": "https://www.layerswap.io/",
-      "oneWay": true,
-      "network": [
-         "Binance",
-         "Coinbase",
-         "FTX",
-         "FTX(US)",
-         "Huobi",
-         "Kucoin",
-         "Okex"
-        ]
-   },
-    {
-      "gateway": "Synapse",
-      "url": "https://synapseprotocol.com/",
-      "network": [
-         "Arbitrum",
-         "Avalanche",
-         "BSC",
-         "Ethereum",
-         "Fantom",
-         "Harmony",
-         "Moonriver",
-         "Optimism",
-         "Polygon"
-        ]
-   }
-   ]
+  {
+    "gateway": "Across",
+    "url": "https://across.to/",
+    "network": ["Ethereum"],
+    "assets": ["ETH", "USDC", "WBTC", "UMA"]
+  },
+  {
+    "gateway": "Boba Gateway",
+    "url": "https://gateway.boba.network/",
+    "network": ["Ethereum"],
+    "assets": [
+      "ETH",
+      "BOBA",
+      "OMG",
+      "BAT",
+      "DAI",
+      "SUSHI",
+      "USDC",
+      "USDT",
+      "LINK"
+    ]
+  },
+  {
+    "gateway": "Celer",
+    "url": "https://cbridge.celer.network/#/transfer",
+    "network": ["Ethereum"],
+    "assets": ["ETH", "BOBA", "FRAX", "OLO"]
+  },
+  {
+    "gateway": "Celer",
+    "url": "https://cbridge.celer.network/#/transfer",
+    "network": [
+      "Arbitrum",
+      "Aurora",
+      "Avalanche",
+      "Fantom",
+      "Harmony",
+      "Optimism",
+      "Polygon"
+    ],
+    "assets": ["USDC"]
+  },
+  {
+    "gateway": "Celer",
+    "url": "https://cbridge.celer.network/#/transfer",
+    "network": ["BSC"],
+    "assets": ["USDC", "OLO"]
+  },
+  {
+    "gateway": "LayerSwap",
+    "url": "https://www.layerswap.io/",
+    "oneWay": true,
+    "network": [
+      "Binance",
+      "Coinbase",
+      "FTX",
+      "FTX(US)",
+      "Huobi",
+      "Kucoin",
+      "Okex"
+    ],
+    "assets": ["ETH"]
+  },
+  {
+    "gateway": "Synapse",
+    "url": "https://synapseprotocol.com/",
+    "network": ["Arbitrum", "Avalanche"],
+    "assets": [
+      "ETH",
+      "nETH",
+      "gOHM",
+      "DAI",
+      "GMX",
+      "USDC",
+      "USDT",
+      "SYN",
+      "nUSD"
+    ]
+  },
+  {
+    "gateway": "Synapse",
+    "url": "https://synapseprotocol.com/",
+    "network": ["BSC", "Ethereum", "Fantom", "Harmony"],
+    "assets": ["ETH", "nETH", "gOHM", "DAI", "USDC", "USDT", "SYN", "nUSD"]
+  },
+  {
+    "gateway": "Synapse",
+    "url": "https://synapseprotocol.com/",
+    "network": ["Optimism"],
+    "assets": ["ETH", "nETH", "SYN"]
+  },
+  {
+    "gateway": "Synapse",
+    "url": "https://synapseprotocol.com/",
+    "network": ["Polygon"],
+    "assets": ["gOHM", "DAI", "USDC", "USDT", "SYN", "nUSD"]
+  },
+  {
+    "gateway": "Synapse",
+    "url": "https://synapseprotocol.com/",
+    "network": ["Moonbeam"],
+    "assets": ["gOHM", "veSOLAR", "AVAX", "SYN"]
+  },
+  {
+    "gateway": "Synapse",
+    "url": "https://synapseprotocol.com/",
+    "network": ["Moonriver"],
+    "assets": ["gOHM", "veSOLAR", "FRAX", "MOVR", "SYN"]
+  }
+]
