@@ -10,7 +10,6 @@ function classNames(...classes: string[]) {
 export const NetworkSelector = (props: any) => {
   const [selected, setSelected] = useState(networks[6]);
   const handleChange = (selectedNetwork: any) => {
-    console.log(selectedNetwork);
     setSelected(selectedNetwork);
   };
   return {
@@ -22,15 +21,15 @@ export const NetworkSelector = (props: any) => {
             <Listbox.Label className="text-3xl text-white">
               {props.data}{' '}
             </Listbox.Label>
-            <div className="h-14 w-1/2 mt-1 left-1/4 relative">
+            <div className="h-14 w-1/2 mt-2 left-1/4 relative">
               <Listbox.Button className="relative w-full bg-white border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
-                <span className="flex place-content-evenly">
+                <span className="flex place-content-center">
                   <img
                     src={selected.logo}
                     alt=""
                     className="flex-shrink-0 h-6 w-6 rounded-full"
                   />
-                  <span className="ml-3 block truncate">
+                  <span className="ml-3 block truncate text-lg">
                     {selected.network}
                   </span>
                 </span>

@@ -27,8 +27,6 @@ export function BridgeOverview() {
     bridges: availableBridges,
     direction: tabs.direction,
   });
-  console.log(availableBridges);
-  console.log(selected, tabs);
   return (
     <div className="min-w-full">
       {tabs.tab}

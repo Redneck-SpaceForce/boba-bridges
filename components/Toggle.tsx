@@ -43,7 +43,7 @@ export default function MyTabs() {
             ))}
           </Tab.List>
         </Tab.Group>
-        <h1 className="text-[#ccff00] text-4xl">Boba</h1>
+        <h1 className="text-[#ccff00] mt-2 text-4xl">Boba</h1>
       </div>
     ),
   };

@@ -9,7 +9,7 @@ export default function BridgeOptions(props: any) {
     return (
       <li
         key={bridge}
-        className="border rounded text-left bg-gradient-to-tr from-gray-600 to bg-gray-100 text-black"
+        className="border rounded text-left mt-2 py-1 pl-2 bg-gradient-to-tr from-gray-600 to bg-gray-100 text-black"
       >
         {bridge} -{' '}
         <a href={match?.url} target="_blank">
