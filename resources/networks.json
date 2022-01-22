@@ -1,0 +1,102 @@
+[
+    {
+      "network": "Arbitrum",
+      "logo": "https://bridge.arbitrum.io/images/Arbitrum_Vertical_Logo_-_Full_color_-_White_background.svg",
+      "website": "https://offchainlabs.com/"
+    },
+    {
+      "network": "Avalanche",
+      "logo": "https://research.binance.com/static/images/projects/avalanche/logo.png",
+      "website": ""
+    },
+    {
+      "network": "Binance",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "BSC",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Celo",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Coinbase",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Ethereum",
+      "logo": "https://ethereum.org/static/4b5288012dc4b32ae7ff21fccac98de1/448ee/eth-diamond-black-gray.webp",
+      "website": ""
+    },
+    {
+      "network": "Fantom",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "FTX",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "FTX(US)",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Harmony",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Heco",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Huobi",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Kucoin",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Metis",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Moonriver",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Okex",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Optimism",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "Polygon",
+      "logo": "",
+      "website": ""
+    },
+    {
+      "network": "xDai",
+      "logo": "",
+      "website": ""
+    }
+  ]

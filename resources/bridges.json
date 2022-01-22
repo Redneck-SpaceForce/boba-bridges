@@ -1,0 +1,68 @@
+[
+    {
+      "gateway": "Across",
+      "url": "https://across.to/",
+      "network": [
+         "Arbitrum",
+         "Ethereum",
+         "Optimism"
+      ]
+   },
+    {
+      "gateway": "Boba Gateway",
+      "url": "https://gateway.boba.network/",
+      "network": [
+         "Ethereum"
+        ]
+   },
+    {
+      "gateway": "Celer",
+      "url": "https://cbridge.celer.network/#/transfer",
+      "network": [
+         "Arbitrum",
+         "Arbitrum",
+         "Avalanche",
+         "BSC",
+         "Celo",
+         "Ethereum",
+         "Fantom",
+         "Harmony",
+         "Heco",
+         "Metis",
+         "Moonriver",
+         "Okex",
+         "Optimism",
+         "Polygon",
+         "xDai"
+      ]
+   },
+    {
+      "gateway": "LayerSwap",
+      "url": "https://www.layerswap.io/",
+      "oneWay": true,
+      "network": [
+         "Binance",
+         "Coinbase",
+         "FTX",
+         "FTX(US)",
+         "Huobi",
+         "Kucoin",
+         "Okex"
+        ]
+   },
+    {
+      "gateway": "Synapse",
+      "url": "https://synapseprotocol.com/",
+      "network": [
+         "Arbitrum",
+         "Avalanche",
+         "BSC",
+         "Ethereum",
+         "Fantom",
+         "Harmony",
+         "Moonriver",
+         "Optimism",
+         "Polygon"
+        ]
+   }
+   ]
