@@ -8,7 +8,7 @@ export default function Home(this: any) {
         <title>Boba Bridges</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="flex justify-center sm:pt-0 md:pt-10 lg:pt-20 xl:pt-30 2xl:pt-40">
+      <div className="flex justify-center pt-6 sm:pt-6 md:pt-10 lg:pt-20 xl:pt-30 2xl:pt-40">
         <main className="items-center justify-center place-content-center text-center">
           <h1 className="text-6xl font-bold text-white">
             <a className="text-[#ccff00]" href="https://boba.network/">
