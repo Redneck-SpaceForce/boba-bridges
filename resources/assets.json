@@ -108,5 +108,35 @@
     "name": "Chainlink",
     "symbol": "LINK",
     "logo": "https://gateway.boba.network/static/media/link.4b02bc11.svg"
+  },
+  {
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "logo": "https://assets.coingecko.com/coins/images/16786/large/mimlogopng.png"
+  },
+  {
+    "name": "BNB",
+    "symbol": "BNB",
+    "logo": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png"
+  },
+  {
+    "name": "Binance BUSD Token",
+    "symbol": "BUSD",
+    "logo": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png"
+  },
+  {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "logo": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png"
+  },
+  {
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "logo": "https://assets.coingecko.com/coins/images/13423/large/frax_share.png"
+  },
+  {
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "logo": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
   }
 ]

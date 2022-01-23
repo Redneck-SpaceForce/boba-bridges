@@ -8,7 +8,7 @@ function classNames(...classes: string[]) {
 }
 
 export const NetworkSelector = (props: any) => {
-  const [selected, setSelected] = useState(networks[6]);
+  const [selected, setSelected] = useState(networks[8]);
   const handleChange = (selectedNetwork: any) => {
     setSelected(selectedNetwork);
   };

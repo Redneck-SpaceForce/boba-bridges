@@ -6,6 +6,72 @@
     "assets": ["ETH", "USDC", "WBTC", "UMA"]
   },
   {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Avalanche"],
+    "assets": ["MIM", "FRAX", "FXS"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["BSC"],
+    "assets": ["MIM", "AVAX", "BUSD", "FRAX", "FTM", "FXS", "MATIC"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Ethereum"],
+    "assets": ["MIM", "AVAX", "FRAX", "FTM", "FXS", "MATIC"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Arbitrum", "Moonriver"],
+    "assets": ["MIM", "FRAX", "FXS"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Aurora"],
+    "assets": ["BUSD", "FTM", "MATIC", "AVAX", "BNB", "FRAX", "FXS"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Harmony"],
+    "assets": ["FTM", "AVAX", "FRAX", "FXS"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Cronos"],
+    "assets": ["AVAX", "BNB", "BUSD", "FTM", "MATIC"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Fantom"],
+    "assets": ["MIM", "FTM", "AVAX", "FRAX", "FXS"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Moonbeam"],
+    "assets": ["FRAX", "FXS"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Polygon"],
+    "assets": ["MIM", "MATIC", "FRAX", "FXS"]
+  },
+  {
+    "gateway": "Anyswap",
+    "url": "https://anyswap.exchange/#/router",
+    "network": ["Metis", "Celo"],
+    "assets": ["AVAX", "BNB", "BUSD", "FTM", "MATIC"]
+  },
+  {
     "gateway": "Boba Gateway",
     "url": "https://gateway.boba.network/",
     "network": ["Ethereum"],
@@ -20,6 +86,24 @@
       "USDT",
       "LINK"
     ]
+  },
+  {
+    "gateway": "BoringDAO",
+    "url": "https://oportal.boringdao.com/twoway",
+    "network": [
+      "Ethereum",
+      "BSC",
+      "Okex",
+      "Polygon",
+      "Harmony",
+      "xDAI",
+      "Avalanche",
+      "Fantom",
+      "Heco",
+      "Arbitrum",
+      "Optimism"
+    ],
+    "assets": ["USDT"]
   },
   {
     "gateway": "Celer",
