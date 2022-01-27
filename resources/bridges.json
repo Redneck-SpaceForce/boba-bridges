@@ -147,6 +147,14 @@
     "assets": ["ETH"]
   },
   {
+    "gateway": "PolyBridge",
+    "url": "https://bridge.poly.network/",
+    "network": [
+      "Ethereum"
+    ],
+    "assets": ["BOBA"]
+  },
+  {
     "gateway": "Synapse",
     "url": "https://synapseprotocol.com/",
     "network": ["Arbitrum", "Avalanche"],
