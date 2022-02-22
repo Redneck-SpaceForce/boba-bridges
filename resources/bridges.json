@@ -3,7 +3,7 @@
     "gateway": "Across",
     "url": "https://across.to/",
     "network": ["Ethereum"],
-    "assets": ["ETH", "USDC", "WBTC", "UMA"]
+    "assets": ["ETH", "BOBA", "USDC", "WBTC", "UMA"]
   },
   {
     "gateway": "Anyswap",
