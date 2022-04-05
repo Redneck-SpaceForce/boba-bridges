@@ -149,10 +149,20 @@
   {
     "gateway": "PolyBridge",
     "url": "https://bridge.poly.network/",
-    "network": [
-      "Ethereum"
-    ],
+    "network": ["Ethereum"],
     "assets": ["BOBA"]
+  },
+  {
+    "gateway": "Symbiosis",
+    "url": "https://app.symbiosis.finance/swap",
+    "network": ["Ethereum"],
+    "assets": ["USDC"]
+  },
+  {
+    "gateway": "Symbiosis",
+    "url": "https://app.symbiosis.finance/swap",
+    "network": ["BSC"],
+    "assets": ["BUSD"]
   },
   {
     "gateway": "Synapse",

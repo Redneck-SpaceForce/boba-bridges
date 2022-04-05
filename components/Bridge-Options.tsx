@@ -23,7 +23,11 @@ function assetList(bridge: any, network: string) {
 
 export default function BridgeOptions(props: any) {
   const listBridges = props.bridges.map((bridge: any) => {
-    const match = bridgesJson.find((x) => x.gateway === bridge);
+    const match = bridgesJson
+      .sort(function (a: any, b: any) {
+        return b.assets.length - a.assets.length;
+      })
+      .find((x) => x.gateway === bridge);
     if (match?.oneWay && props.direction === 'from') {
       return;
     }
@@ -38,5 +42,6 @@ export default function BridgeOptions(props: any) {
       </li>
     );
   });
+
   return <ul>{listBridges}</ul>;
 }
