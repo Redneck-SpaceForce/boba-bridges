@@ -1,8 +1,12 @@
 import bridgesJson from '../resources/bridges.json';
 import assets from '../resources/assets.json';
 
+const sortedBridges = bridgesJson.sort(function (a: any, b: any) {
+  return b.assets.length - a.assets.length;
+});
+
 function assetList(bridge: any, network: string) {
-  const match = bridgesJson.find(
+  const match = sortedBridges.find(
     (x) => x.gateway === bridge && x.network.includes(network)
   );
   let assetList;
@@ -23,10 +27,7 @@ function assetList(bridge: any, network: string) {
 
 export default function BridgeOptions(props: any) {
   const listBridges = props.bridges.map((bridge: any) => {
-    const match = bridgesJson
-      .sort(function (a: any, b: any) {
-        return b.assets.length - a.assets.length;
-      })
+    const match = sortedBridges
       .find((x) => x.gateway === bridge);
     if (match?.oneWay && props.direction === 'from') {
       return;

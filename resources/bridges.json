@@ -72,6 +72,12 @@
     "assets": ["AVAX", "BNB", "BUSD", "FTM", "MATIC"]
   },
   {
+    "gateway": "Boba Brewery",
+    "url": "https://bobabrewery.com/bridge",
+    "network": ["BSC"],
+    "assets": ["ETH", "BRE"]
+  },
+  {
     "gateway": "Boba Gateway",
     "url": "https://gateway.boba.network/",
     "network": ["Ethereum"],

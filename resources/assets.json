@@ -138,5 +138,10 @@
     "name": "Polygon",
     "symbol": "MATIC",
     "logo": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+  },
+  {
+    "name": "Brewery",
+    "symbol": "BRE",
+    "logo": "https://bobabrewery.oss-ap-southeast-1.aliyuncs.com/Brewery32x32.png"
   }
 ]
