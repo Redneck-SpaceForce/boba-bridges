@@ -138,6 +138,33 @@
     "assets": ["USDC", "OLO"]
   },
   {
+    "gateway": "Connext",
+    "url": "https://bridge.connext.network/",
+    "network": [
+      "BSC",
+      "Polygon",
+      "Avalanche",
+      "Fantom",
+      "Arbitrum",
+      "Optimism",
+      "Moonbeam",
+      "Moonriver",
+      "Harmony",
+      "Cronos",
+      "Gnosis",
+      "Milkomeda",
+      "Gather Network",
+      "Evmos"
+    ],
+    "assets": ["USDC"]
+  },
+  {
+    "gateway": "Connext",
+    "url": "https://bridge.connext.network/",
+    "network": ["Ethereum"],
+    "assets": ["USDC", "BOBA"]
+  },
+  {
     "gateway": "LayerSwap",
     "url": "https://www.layerswap.io/",
     "oneWay": true,

@@ -45,6 +45,11 @@
     "website": ""
   },
   {
+    "network": "Evmos",
+    "logo": "https://bridge.connext.network/logos/chains/mainnet/evmos.png",
+    "website": ""
+  },
+  {
     "network": "Fantom",
     "logo": "https://cryptologos.cc/logos/fantom-ftm-logo.png?v=018",
     "website": ""
@@ -52,6 +57,16 @@
   {
     "network": "FTX",
     "logo": "https://cryptologos.cc/logos/ftx-token-ftt-logo.png?v=018",
+    "website": ""
+  },
+  {
+    "network": "Gather Network",
+    "logo": "https://bridge.connext.network/logos/chains/mainnet/gather.png",
+    "website": ""
+  },
+  {
+    "network": "Gnosis",
+    "logo": "https://bridge.connext.network/logos/chains/mainnet/gnosis.png",
     "website": ""
   },
   {
@@ -85,6 +100,11 @@
     "website": ""
   },
   {
+    "network": "Milkomeda",
+    "logo": "https://bridge.connext.network/logos/chains/mainnet/milkomeda.png",
+    "website": ""
+  },
+  {
     "network": "Moonbeam",
     "logo": "https://icodrops.com/wp-content/uploads/2020/09/Moonbeam_logo.jpg",
     "website": ""
@@ -96,7 +116,7 @@
   },
   {
     "network": "Okex",
-    "logo": "https://www.layerswap.io/_next/image?url=%2Flogos%2Fokex.png&w=3840&q=75",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/OKX_Logo.svg/240px-OKX_Logo.svg.png",
     "website": ""
   },
   {
