@@ -72,6 +72,12 @@
     "assets": ["AVAX", "BNB", "BUSD", "FTM", "MATIC"]
   },
   {
+    "gateway": "Beamer",
+    "url": "https://app.beamerbridge.com/#/",
+    "network": ["Optimism"],
+    "assets": ["USDC"]
+  },
+  {
     "gateway": "Boba Brewery",
     "url": "https://bobabrewery.com/bridge",
     "network": ["BSC"],

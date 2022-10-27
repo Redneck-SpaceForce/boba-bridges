@@ -17,7 +17,7 @@
   {
     "name": "Boba",
     "symbol": "BOBA",
-    "logo": "https://pbs.twimg.com/profile_images/1428352421160394754/y8NXfOmP_400x400.png"
+    "logo": "https://gateway.boba.network/static/media/boba-token.2b6e6aac.svg"
   },
   {
     "name": "Frax",
@@ -47,7 +47,7 @@
   {
     "name": "Synapse",
     "symbol": "SYN",
-    "logo": "https://synapseprotocol.com/static/media/synapse.2ad11ea43218bdada85bff8f054dd4be.svg"
+    "logo": "https://synapseprotocol.com/static/media/synapse.08c7594092759178adf912b8fc3c5fbc.svg"
   },
   {
     "name": "Synapse nUSD",
@@ -142,6 +142,6 @@
   {
     "name": "Brewery",
     "symbol": "BRE",
-    "logo": "https://bobabrewery.oss-ap-southeast-1.aliyuncs.com/Brewery32x32.png"
+    "logo": "https://assets.coingecko.com/coins/images/24953/small/bre.png?1649507380"
   }
 ]
